@@ -51,15 +51,8 @@ export default function AboutPage() {
           </li>
           <li>Regional metrics: national agencies and peer-reviewed remote sensing cited on each site page</li>
         </ul>
-        <h2 className="font-display text-xl text-white">Deploy online</h2>
+        <h2 className="font-display text-xl text-white">Group Members</h2>
         <p className="text-sm">
-          This site is a static React app. Deploy free on{" "}
-          <a href="https://vercel.com" className="text-earth-400 underline" target="_blank" rel="noopener noreferrer">
-            Vercel
-          </a>
-          , Netlify, or GitHub Pages: run <code className="rounded bg-earth-800 px-1">npm install</code> then{" "}
-          <code className="rounded bg-earth-800 px-1">npm run build</code> and upload the <code className="rounded bg-earth-800 px-1">dist</code> folder.
-          Group Members:
           Sameer Singh (26BAI10004)
           Anany Dubey (26BAI10492)
           Himanshu Tripathi (26BCE10127)
