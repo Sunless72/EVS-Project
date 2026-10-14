@@ -9,28 +9,9 @@ Interactive environmental science website covering **1984–2024** change at maj
 - Causes of climate and land-change explained in plain language
 - Responsive UI, ready for static hosting
 
-## Run locally
+## Group Members
 
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173).
-
-## Deploy (Vercel — recommended)
-
-1. Push this folder to GitHub.
-2. Import the repo at [vercel.com/new](https://vercel.com/new).
-3. Framework preset: **Vite** — build command `npm run build`, output directory `dist`.
-
-`vercel.json` includes SPA routing so deep links work.
-
-## Build
-
-```bash
-npm run build
-npm run preview
-```
-
-Static files are in `dist/`.
+-Sameer Singh (26BAI10004)
+-Anany Dubey (26BAI10492)
+-Himanshu Tripathi (26BCE10127)
+-Bhavna Singh (26BCY10052)
