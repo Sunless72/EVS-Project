@@ -59,6 +59,11 @@ export default function AboutPage() {
           </a>
           , Netlify, or GitHub Pages: run <code className="rounded bg-earth-800 px-1">npm install</code> then{" "}
           <code className="rounded bg-earth-800 px-1">npm run build</code> and upload the <code className="rounded bg-earth-800 px-1">dist</code> folder.
+          Group Members:
+          Sameer Singh (26BAI10004)
+          Anany Dubey (26BAI10492)
+          Himanshu Tripathi (26BCE10127)
+          Bhavna Singh (26BCY10052)
         </p>
         <p className="text-xs text-slate-500">
           Chart values are rounded composites for classroom presentation; cite primary sources above for formal
