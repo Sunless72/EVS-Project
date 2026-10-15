@@ -56,7 +56,7 @@ export default function AboutPage() {
           Sameer Singh (26BAI10004)
           Anany Dubey (26BAI10492)
           Himanshu Tripathi (26BCE10127)
-          Bhavna Singh (26BCY10052)
+          Bhavana Singh (26BCY10052)
           Om Mulchandani (26BCE10445)
           Kuldeep Thakur (26BCE11508)
         </p>
