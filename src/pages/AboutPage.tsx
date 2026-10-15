@@ -57,6 +57,8 @@ export default function AboutPage() {
           Anany Dubey (26BAI10492)
           Himanshu Tripathi (26BCE10127)
           Bhavna Singh (26BCY10052)
+          Om Mulchandani (26BCE10445)
+          Kuldeep Thakur (26BCE11508)
         </p>
         <p className="text-xs text-slate-500">
           Chart values are rounded composites for classroom presentation; cite primary sources above for formal
